@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ZauriouS
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
+- 👋 Hi, I’m @zaurious
+- 👀 I’m interested in Kotlin
+- 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - zaurkazee@gmail.com
 
